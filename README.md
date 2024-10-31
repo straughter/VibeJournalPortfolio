@@ -13,3 +13,7 @@ VibeJournal 📝 AI-powered journaling application leveraging GPT-4 for emotiona
 - AI: OpenAI GPT-4, FAISS
 - Database: Firebase
 - Testing: Playwright, Python unittest
+
+ ## Contact
+Jamal Straughter
+Email: Straughter1013@gmail.com
